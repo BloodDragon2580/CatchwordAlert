@@ -1,0 +1,18 @@
+## Interface: 80205
+## Title: |cffd6266cCatchwordAlert|r
+## Version: 1.0
+## Notes: Catchword Alerts
+## Author: BloodDragon2580
+
+## OptionalDeps: Ace3, LibDBIcon-1.0
+## X-Embeds: Ace3
+
+## SavedVariables: CatchwordAlertLDBIconDB
+## SavedVariablesPerCharacter: CatchwordAlertDB
+
+embeds.xml
+
+locale\locale.xml
+
+main.lua
+config.lua
