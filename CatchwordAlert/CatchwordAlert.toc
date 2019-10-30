@@ -1,6 +1,6 @@
 ## Interface: 80205
 ## Title: |cffd6266cCatchwordAlert|r
-## Version: 1.1
+## Version: 1.2
 ## Notes: Catchword Alerts
 ## Author: BloodDragon2580
 
