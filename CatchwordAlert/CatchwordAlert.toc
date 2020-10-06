@@ -1,6 +1,6 @@
 ## Interface: 80300
 ## Title: |cffd6266cCatchwordAlert|r
-## Version: 2.0
+## Version: 2.1
 ## Notes: Catchword Alerts
 ## Author: BloodDragon2580
 
