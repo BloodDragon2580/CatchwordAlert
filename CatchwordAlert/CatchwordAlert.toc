@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 90005
 ## Title: |cffd6266cCatchwordAlert|r
 ## Version: 2.1
 ## Notes: Catchword Alerts
