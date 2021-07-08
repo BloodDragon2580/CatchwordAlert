@@ -5,3 +5,5 @@ If the addon finds a catchword, you'll get an alarm in the chat and also get an 
  
 
 For the settings just go to ESC / Interface / Addons / CatchwordAlert and make your settings.
+
+Download Count https://hanadigital.github.io/grev/?user=BloodDragon2580&repo=CatchwordAlert
