@@ -1,6 +1,6 @@
-## Interface: 90207
+## Interface: 100000
 ## Title: |cffd6266cCatchwordAlert|r
-## Version: 2.9
+## Version: 3.0
 ## Notes: Catchword Alerts
 ## Author: BloodDragon2580
 
