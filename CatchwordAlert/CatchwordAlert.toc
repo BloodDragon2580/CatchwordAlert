@@ -1,14 +1,13 @@
 ## Interface: 100100
 ## Title: |cffd6266cCatchwordAlert|r
-## Version: 3.5
+## Version: 3.6
 ## Notes: Catchword Alerts
 ## Author: BloodDragon2580
-
 ## OptionalDeps: Ace3, LibDBIcon-1.0
 ## X-Embeds: Ace3
-
 ## SavedVariables: CatchwordAlertLDBIconDB
 ## SavedVariablesPerCharacter: CatchwordAlertDB
+## IconTexture: Interface\AddOns\CatchwordAlert\Media\Texture\logo
 
 embeds.xml
 
