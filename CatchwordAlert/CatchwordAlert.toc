@@ -1,6 +1,6 @@
-## Interface: 100205
+## Interface: 100206
 ## Title: |cffd6266cCatchwordAlert|r
-## Version: 4.2
+## Version: 4.3
 ## Notes: Catchword Alerts
 ## Author: BloodDragon2580
 ## OptionalDeps: Ace3, LibDBIcon-1.0
